@@ -1,6 +1,6 @@
 # BeamNG.*drive*
 
-<img align="right" width="240"  src="https://m.media-amazon.com/images/M/MV5BMGNjN2RkMDEtZWQzNS00NmNkLWFlNmQtN2MwYmJkNTJmMWQ2XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" />
+<img width="240" align="right" src="https://m.media-amazon.com/images/M/MV5BMGNjN2RkMDEtZWQzNS00NmNkLWFlNmQtN2MwYmJkNTJmMWQ2XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" />
 
 **BeamNG.*drive*** is a [soft-body](https://en.wikipedia.org/wiki/Soft-body_dynamics) [vehicle simulation](https://en.wikipedia.org/wiki/Vehicle_simulation_game) [video game](https://en.wikipedia.org/wiki/Video_game) aimed to simulate realistic handling and damage.<sup id="footnote-1-backlink-1">[[1]](#footnote-1)</sup>
 
